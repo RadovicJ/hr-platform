@@ -1,0 +1,14 @@
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\controllers\CandidateController.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\controllers\SkillController.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\cors\CorsConfig.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\dtos\CandidatehasskillDTO.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\HrPlatformBackApplication.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\model\Candidate.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\model\Candidatehasskill.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\model\CandidatehasskillId.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\model\Skill.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\repositories\CandidateHasSkillRepository.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\repositories\CandidateRepository.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\repositories\SkillRepository.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\services\CandidateService.java
+C:\Users\jovan\Desktop\HR Platform\hr-platform-back\src\main\java\com\example\hrplatformback\services\SkillService.java
